@@ -1,0 +1,38 @@
+h1{
+  font-size: 50pt;
+  font-family: fantasy;
+}
+body{
+  background: #f5f2d9;
+}
+input {
+  width: 20%;
+  height: 5%;
+  font-size: 15pt;
+  margin-left: 100px;
+}
+
+button{
+  font-size: 20pt;
+}
+p {
+  font-size: large;
+}
+
+h2 {
+  font-size: 20pt;
+}
+
+h3 {
+  font-size: 20pt;
+}
+
+.riceWhite {
+  display: block;
+  font-size: 16pt;
+}
+
+.riceCal {
+  display: none;
+  font-size: 16pt;
+}
